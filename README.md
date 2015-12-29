@@ -2,7 +2,9 @@
 
 ##What, How, Why?
 
-It is just a fun project to learn more about web APIs and web programing. **You can check out the live website [here](http://gc1569.nyuad.im/MoneyMakesTheWorld/).** The website makes constantly requests to Instagram trough its API, looking for the most recent images with #money. It send the newest pictures across the screen. Whenever there is a new one, it also spins the globe, which stands for the metaphor “money makes the world go round”. I created the globe with THREE JS. I thought this little metaphor would be a small joke around which the project could be based.
+It is just a fun project to learn more about web APIs and web programing. **You can check out the live website [here](http://gc1569.nyuad.im/MoneyMakesTheWorld/).** 
+
+The website makes constantly requests to Instagram trough its API, looking for the most recent images with #money. It send the newest pictures across the screen. Whenever there is a new one, it also spins the globe, which stands for the metaphor “money makes the world go round”. I created the globe with THREE JS. I thought this little metaphor would be a small joke around which the project could be based.
 
 Staying with the theme of money, the globe also present data on wealth distribution and population distribution by continents, which is always interesting to look at. A lot of people have misconceptions about the size and importance of Asia and think that it is unfair that it is becoming the most dominant region of the globe. But when you look at it, it is simply far larger than any other continent.
 
